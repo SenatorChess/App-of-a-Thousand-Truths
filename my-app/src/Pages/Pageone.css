@@ -1,0 +1,8 @@
+.position {
+    position: absolute;
+    top: 300%;
+    left: 50%;
+    font-size: 100px;
+    height: 500px;
+    width: 500px;
+}
